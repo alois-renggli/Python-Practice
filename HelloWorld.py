@@ -217,7 +217,7 @@ import os
 # text_file.close()
 
 # employee_file = open("test1.txt","w")
-# employee_file.write("\nI just wrote this shizz!")
+# employee_file.write("\nI just wrote this!")
 # print(employee_file.readlines())
 # employee_file.close()
 
